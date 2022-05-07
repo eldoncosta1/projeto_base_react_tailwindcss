@@ -45,4 +45,3 @@ npm install --save-dev tailwind-scrollbar
 ```javascript
 npm install html2canvas
 ```
-# projeto_base_react_tailwindcss
