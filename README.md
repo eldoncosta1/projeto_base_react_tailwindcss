@@ -39,9 +39,3 @@ npm install @headlessui/react
 npm install -D @tailwindcss/forms
 npm install --save-dev tailwind-scrollbar
 ```
-
-### Instalando Biblioteca para screenshot
-
-```javascript
-npm install html2canvas
-```
